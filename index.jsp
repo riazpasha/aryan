@@ -78,7 +78,7 @@ if(sds == null){alert("You are using a free package.\n You are not allowed to re
     <td width="200" valign="top">
     	<img src="images/hioxindia-pharmacy_19.jpg" alt="" border="0" />    </td>
     <td width="760" valign="top">
-    	<h1>Welcome to Pharmaceutical Company </h1>
+    	<h1>Welcome to Azure DevOps </h1>
         <p>This is free Pharmaceutical Company   for your online website, blog or web page which is under Health and Medicine category. Anyone wants good, professional,   for their pharmacy, drug store, medical store then this   would be the best one. This free pharmaceutical company   is designed by professional designers to make your task much easier to customize it.</p><br />
 
 <p>There are many other   categories like Arts, Agriculture, Computers, Satellite, Cars, Finance, Nature, Music, Personal Website, Religious, Fashion, Furniture, Holiday, Travel, Night club are available in this site. Have a look at the collection of HTML  s, pick the right one, preview and download it easily.</p>
